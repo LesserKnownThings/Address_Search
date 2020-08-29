@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GoogleSearchBar.MainPage"
+             xmlns:custom="clr-namespace:GoogleSearchBar.Scripts.Misc">
+
+    <StackLayout BackgroundColor="White">
+
+        <StackLayout Padding="5">
+        <Frame Padding="0" CornerRadius="15"
+               BorderColor="DarkBlue">
+            <SearchBar Text="" Placeholder="Search Address"
+                       TextColor="Black"
+                       x:Name="from_searchbar"/>
+        </Frame>
+
+        <Image Source="{custom:CustomImage GoogleSearchBar.Images.google.png}"
+               BackgroundColor="Transparent"
+               HorizontalOptions="StartAndExpand"/>
+
+            <StackLayout Padding="5,0,5,0" HorizontalOptions="CenterAndExpand">
+        <ActivityIndicator x:Name="activity" IsVisible="False"/>
+        
+        <ListView x:Name="result_list" BackgroundColor="Transparent">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding MainText}" 
+                              Detail="{Binding SecondaryText}" 
+                              TextColor="Black"
+                              DetailColor="SlateGray"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

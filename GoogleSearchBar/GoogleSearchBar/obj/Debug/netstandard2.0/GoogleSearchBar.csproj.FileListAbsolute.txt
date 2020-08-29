@@ -1,0 +1,14 @@
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\bin\Debug\netstandard2.0\GoogleSearchBar.deps.json
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\bin\Debug\netstandard2.0\GoogleSearchBar.dll
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\GoogleSearchBar.csprojAssemblyReference.cache
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\GoogleSearchBar.AssemblyInfoInputs.cache
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\GoogleSearchBar.AssemblyInfo.cs
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\bin\Debug\netstandard2.0\ref\GoogleSearchBar.dll
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\bin\Debug\netstandard2.0\GoogleSearchBar.pdb
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\GoogleSearchBar.csproj.CoreCompileInputs.cache
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\GoogleSearchBar.dll
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\ref\GoogleSearchBar.dll
+C:\Users\X-PC\source\repos\GoogleSearchBar\GoogleSearchBar\GoogleSearchBar\obj\Debug\netstandard2.0\GoogleSearchBar.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7kAyU5uRcf6yXAGOK5Gw2USRMJvqQB/ZHX12nYCkdFTQBtK0RPRq6YTOWRwjMLB3E29UN2R5CN8I2fKl9B30qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\X-PC\\source\\repos\\GoogleSearchBar\\GoogleSearchBar\\GoogleSearchBar.iOS\\GoogleSearchBar.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\X-PC\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\X-PC\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
