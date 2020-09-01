@@ -1,3 +1,2 @@
 # Auto detect text files and perform LF normalization
-*.csharp linguist-vendored=true
-*.php linguist-vendored=true
+ *.* linguist-language=csharp
